@@ -51,7 +51,6 @@ INSTALLED_APPS = [
     'tickets',
     'admin_management',
     'assistant',
-
     'sharing',  # the new sharing app
 ]
 
